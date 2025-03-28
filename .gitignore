@@ -15,7 +15,6 @@ target/
 .idea
 target
 src/main/java/com/bridgelabz/List/FrequencyCounter.java
-src/main/java/com/bridgelabz/List/ReverseList.java
 
 ### Eclipse ###
 .apt_generated
