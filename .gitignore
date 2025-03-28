@@ -14,7 +14,6 @@ target/
 *.ipr
 .idea
 target
-src/main/java/com/bridgelabz/List/FrequencyCounter.java
 
 ### Eclipse ###
 .apt_generated
